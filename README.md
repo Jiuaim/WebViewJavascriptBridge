@@ -17,12 +17,6 @@ Drag the `WebViewJavascriptBridge` folder into your project.
 
 In the dialog that appears, uncheck "Copy items into destination group's folder" and select "Create groups for any folders".
 
-Examples
---------
-
-See the `Example Apps/` folder. Open either the iOS and hit run to see it in action.
-
-To use a WebViewJavascriptBridge in your own project:
 
 Usage
 -----
